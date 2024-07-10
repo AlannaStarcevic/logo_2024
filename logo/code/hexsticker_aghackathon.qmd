@@ -8,6 +8,8 @@ format: html
 
 This is a short tutorial to easily create your own stickers!
 
+BLABLABLA
+
 Let's give it a try for this group and find our identity! 🙃
 
 ## 00. Libraries
